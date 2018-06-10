@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <name>micrometer</name>
-    <description>Demo project for Spring Boot 2 + Prometheus + Grafana</description>
+    <description>Micrometer Demo Project: Spring Boot 2 + Prometheus + Grafana + JMX</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
